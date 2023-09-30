@@ -2,7 +2,7 @@
   "title": "Banana Castle",
   "author": {
     "name": "Richard Howell",
-    "avatar": "https://micro.blog/richonrails/avatar.jpg",
+    "avatar": "/assets/avatar.png",
     "username": "richonrails"
   },
   "baseURL": "https://blog.bananacastle.com/",
@@ -69,13 +69,6 @@
     "paginate_replies": true,
     "theme_seconds": "1689492150",
     "plugins_css": [],
-    "plugins_js": [],
-    "plugins_html": ["plugin_tinylytics.html"],
-    "feeds": {
-      "bookmarks_json": "https://micro.blog/feeds/richonrails/bookmarks/4893d4cb34161231c3b8.json"
-    },
-    "include_conversation": true,
-    "tinylytics_id": "tR8j2x1h2yFM3fSvBToU",
-    "tinylytics_emoji": "👍"
+    "plugins_js": []
   }
 }
