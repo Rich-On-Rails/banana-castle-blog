@@ -5,7 +5,7 @@
     "avatar": "/assets/avatar.png",
     "username": "richonrails"
   },
-  "baseURL": "https://blog.bananacastle.com/",
+  "baseURL": "https://blog.bananacastle.co.uk/",
   "mediaTypes": { "application/json": { "suffixes": ["json"] } },
   "outputFormats": {
     "RSS": { "baseName": "feed" },
