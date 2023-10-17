@@ -4,18 +4,24 @@ body {
 }
 
 a {
-	color: #000;
-	text-decoration: none;
+	color: #FFD700;
+	text-decoration: underline;
+	font-weight: bold;
 }
 
 a:visited {
-	color: #000;
-	text-decoration: none;
-	background-color: #FFD700;
+	color: #FFD700;
+	text-decoration: underline;
+	font-weight: bold;
 }
 
 .site-header { 
 	text-align: center; 
+}
+
+h2.post-title.p-name a {
+	color: #000;
+	text-decoration: none;
 }
 
 header h1 a, header h1 a:visited {
