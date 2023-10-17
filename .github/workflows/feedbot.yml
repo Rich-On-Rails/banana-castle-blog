@@ -18,7 +18,7 @@ jobs:
           feedUrl: "https://blog.bananacastle.co.uk/feed.json"
           mastodonInstance: "https://mastodon.social"
           mastodonToken: ${{ secrets.MASTODON_ACCESS_TOKEN }}
-          testMode: true
+          testMode: false
 
       # Make sure files are up to date if other commits have been pushed in the mean time
       - name: Pull any changes from Git
